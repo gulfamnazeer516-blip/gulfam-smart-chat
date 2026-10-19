@@ -56,3 +56,14 @@ GPL-2.0
 ## Version
 
 1.3.0
+
+## Plugin Screenshots
+
+### WhatsApp Chat Widget
+![Chat Widget](chat-widget.png)
+
+### Lead Management Dashboard
+![Admin Dashboard](admin-dashboard.png)
+
+### Download Plugin
+[Download v1.3.0](https://github.com/gulfamnazeer516-blip/gulfam-smart-chat/releases/tag/v1.3.0)
